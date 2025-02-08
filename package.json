@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build:css": "sass src/styles/style.scss dist/styles/style.css"
+  }
+}
